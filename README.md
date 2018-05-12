@@ -1,2 +1,2 @@
 # hello-world
-just a example
+just a exsample
